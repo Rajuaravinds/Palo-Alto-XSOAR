@@ -14,3 +14,6 @@ Deployment Option:
 CORTEX SOAR DEV DOCS: https://xsoar.pan.dev/docs/concepts/getting-started-guide
 
 School of Palo Alto: https://beacon.paloaltonetworks.com/student/collection/2083445-palo-alto-networks-certified-cybersecurity-practitioner?sid=345cdd63-4501-4b0c-b496-1a751ce1bf27&sid_i=1
+
+Path:
+https://beacon.paloaltonetworks.com/student/path/642702w
