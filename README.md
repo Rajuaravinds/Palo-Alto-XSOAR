@@ -17,3 +17,7 @@ School of Palo Alto: https://beacon.paloaltonetworks.com/student/collection/2083
 
 Path:
 https://beacon.paloaltonetworks.com/student/path/642702w
+
+
+
+DEV Environement Setup Guide:  https://xsoar.pan.dev/docs/tutorials/tut-setup-dev
